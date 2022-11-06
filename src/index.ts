@@ -292,9 +292,3 @@ export function outputWeekShiftSummaries( path: string = 'output.json' ): Promis
         } )
     } )
 }
-
-//TODO
-// If I had more time
-// Test shifts that last longer than two weeks (possible?)
-// Validate the format of a time string
-// Test CST to CDT

@@ -239,9 +239,4 @@ function outputWeekShiftSummaries(path = 'output.json') {
     });
 }
 exports.outputWeekShiftSummaries = outputWeekShiftSummaries;
-//TODO
-// If I had more time
-// Test shifts that last longer than two weeks (possible?)
-// Validate the format of a time string
-// Test CST to CDT
 //# sourceMappingURL=index.js.map
